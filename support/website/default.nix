@@ -15,6 +15,7 @@ mkdir -p $out
 (
   cat "$src/head.inc.html"
   cmark-gfm "$src/index.md"
+  echo $(wc -l<$signatures) signatures
   echo '<ul class="signatures">'
   cat "$signatures"
   echo '</ul>'
