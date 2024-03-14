@@ -1,7 +1,7 @@
 I am adding *myself* as a signatory, and I have:
 
  - Added a file under `signatures`
-    - Named afted my GitHub handle (`@githubHandle`)
+    - Named after my GitHub handle (`@githubHandle`)
     - Containing the line of text to show as a signature
  - The commit message contains only my GitHub handle (`githubHandle`)
 
